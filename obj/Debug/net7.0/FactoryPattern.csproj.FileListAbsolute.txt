@@ -1,0 +1,15 @@
+/home/abhinandhukr/learning/FactoryPattern/bin/Debug/net7.0/FactoryPattern
+/home/abhinandhukr/learning/FactoryPattern/bin/Debug/net7.0/FactoryPattern.deps.json
+/home/abhinandhukr/learning/FactoryPattern/bin/Debug/net7.0/FactoryPattern.runtimeconfig.json
+/home/abhinandhukr/learning/FactoryPattern/bin/Debug/net7.0/FactoryPattern.dll
+/home/abhinandhukr/learning/FactoryPattern/bin/Debug/net7.0/FactoryPattern.pdb
+/home/abhinandhukr/learning/FactoryPattern/obj/Debug/net7.0/FactoryPattern.csproj.AssemblyReference.cache
+/home/abhinandhukr/learning/FactoryPattern/obj/Debug/net7.0/FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/abhinandhukr/learning/FactoryPattern/obj/Debug/net7.0/FactoryPattern.AssemblyInfoInputs.cache
+/home/abhinandhukr/learning/FactoryPattern/obj/Debug/net7.0/FactoryPattern.AssemblyInfo.cs
+/home/abhinandhukr/learning/FactoryPattern/obj/Debug/net7.0/FactoryPattern.csproj.CoreCompileInputs.cache
+/home/abhinandhukr/learning/FactoryPattern/obj/Debug/net7.0/FactoryPattern.dll
+/home/abhinandhukr/learning/FactoryPattern/obj/Debug/net7.0/refint/FactoryPattern.dll
+/home/abhinandhukr/learning/FactoryPattern/obj/Debug/net7.0/FactoryPattern.pdb
+/home/abhinandhukr/learning/FactoryPattern/obj/Debug/net7.0/FactoryPattern.genruntimeconfig.cache
+/home/abhinandhukr/learning/FactoryPattern/obj/Debug/net7.0/ref/FactoryPattern.dll
